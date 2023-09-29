@@ -7,5 +7,6 @@ ToothFairy: Cone-Beam Computed Tomography Segmentation Challenge – MICCAI 2023
 * train_gcr_finetune.py : fine tuning on ground truth labels - high resolution
 
 src: train models
+
 challenge: submit a challenge docker container  
 
